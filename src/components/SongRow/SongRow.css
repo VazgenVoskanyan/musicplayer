@@ -1,0 +1,22 @@
+.SongRow{
+    max-width: 1200px;
+    height: 40px;
+    background-color: rgb(227, 222, 222);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+.SongRow div{
+    display: flex;
+    gap: 5px;
+}
+button{
+    text-align: center;
+    height: 32px;
+}
+input{
+    height: 26px;
+}

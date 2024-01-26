@@ -1,0 +1,24 @@
+
+
+form{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    height: 260px;
+    width: 250px;
+    border: 1px solid black;
+}
+
+form input{
+    margin: 12px;
+
+}
+
+form button{
+    margin: 12px;
+    height: 40px;
+    width: 70px;
+    border-radius: 8px;
+    background-color: rgb(40, 40, 122);
+    color: white;
+}
